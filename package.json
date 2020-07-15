@@ -1,0 +1,16 @@
+{
+  "name": "eth-gas-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chart.js": "^2.8.0",
+    "mongodb": "^3.2.7"
+  }
+}

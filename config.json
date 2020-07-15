@@ -1,0 +1,9 @@
+{
+    "blockchain": {
+        "web3": {
+            "type": "websocket",
+            "path": ""
+        }
+    },
+    "statsapi_url":"testnet-dev.eth.co/stats/json/ethgasAPI.json"
+}
